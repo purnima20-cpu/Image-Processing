@@ -1,5 +1,4 @@
 # 🖼️ Image Processing Labs
-
 A collection of basic **Image Processing experiments** implemented in Python using OpenCV.
 
 ## 🧰 Tools Used
